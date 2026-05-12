@@ -14,7 +14,7 @@ The dashboard provides clear insights into sales trends, product performance, an
 - Evaluate revenue and profit  
 - Understand customer segments and sales channels  
 - Support business decision-making
-- 
+ 
 ## 📁 Dataset Information
 The dataset contains detailed sales information of Samsung products across multiple countries.
 
