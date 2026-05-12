@@ -63,7 +63,11 @@ The dataset contains detailed sales information of Samsung products across multi
 - Improve low-performing regions  
 - Optimize pricing strategies  
 - Strengthen online sales channels  
-- Improve customer satisfaction  
+- Improve customer satisfaction
+
+## 💡 Dashboard Preview
+
+
 
 ## 👩‍💻 Author
 **Farzana PA**
