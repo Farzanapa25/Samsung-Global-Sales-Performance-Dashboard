@@ -67,7 +67,7 @@ The dataset contains detailed sales information of Samsung products across multi
 
 ## 💡 Dashboard Preview
 
-https://github.com/Farzanapa25/Samsung-Global-Sales-Performance-Dashboard/blob/53b304ddc624551c3dfcb19fb02c0f11c82213b7/Final%20Pic.png
+<img width="1507" height="866" alt="Image" src="https://github.com/user-attachments/assets/fbbfc075-f369-41ad-a15f-aecfb42bc970" />
 
 ## 👩‍💻 Author
 **Farzana PA**
